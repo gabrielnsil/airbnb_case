@@ -53,12 +53,7 @@ O desafio consiste em analisar os dados de ocupação e preço de anúncios no A
 - Geração de modelos que maximizem o faturamento médio do anúncio
 - Análise de sentimento do Título de cada Anúncio (`ad_name`)
 
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
-
-
 ##
+
 #### [PT-BR] Fique à vontade para entrar em contato com qualquer dúvida ou se você estiver interessado em contribuir!
 #### [EN] Feel free to contact with any questions or if you are interested in contributing!
