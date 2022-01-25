@@ -1,31 +1,31 @@
-# Seazone Code Challenge - Data Science
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabrielnsil/airbnb_case?color=green">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gabrielnsil/airbnb_case">
+  <a href="https://github.com/gabrielnsil/airbnb_case">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabrielnsil/airbnb_case?color=yellow">
+  </a>
+</p>
+
+# :bar_chart: Seazone Code Challenge - Data Science
 Esse projeto consiste em um Code Challenge elaborado pela [Seazone](https://seazone.com.br) para a vaga de Analista de Dados Jr.
 O desafio consiste em analisar os dados de ocupação e preço de anúncios no Airbnb, a fim de responder uma série de perguntas.
 
-#### Autor: [Gabriel Nascimento Silva](https://www.linkedin.com/in/gabrielnsil/)
+#### Autor: [Gabriel Nascimento Silva](https://www.linkedin.com/in/gabrielnsil/) 
 
-#### -- Project Status: [Active]
-
-## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
-
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+#### :construction: Project Status: ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `[Active]`
 
 ### Métodos Utilizados
-
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- inferential Statistics
-- data visualization
-- predictive modeling
+- processamento/limpeza de dados
+- exploração de dados/estatística descritiva
+- modelagem estatística
+- redação de relatórios
+- estatísticas inferenciais
+- visualização de dados
 
 ### Principais Tecnologias
 * Python3
 * Jupyter Notebook
-* `pandas`, `numpy`, `Seaborn`, `sweetviz`, `pip' & `conda`
+* `pandas`, `numpy`, `Seaborn`, `sweetviz`, `pip` & `conda`
 
 ## *Raw Data* e *Metadata*
 
@@ -49,7 +49,9 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ## Próximos passos
 
-- [to be defined]
+- Aplicação de outros métodos de estatísticas inferenciais (*e.g*. One-way e Two-way ANOVA)
+- Geração de modelos que maximizem o faturamento médio do anúncio
+- Análise de sentimento do Título de cada Anúncio (`ad_name`)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](link)
